@@ -1,0 +1,5 @@
+title = "marathon gitleaks config"
+
+# Standard security level: gitleaks' built-in default ruleset, with no allowlists or rule changes.
+[extend]
+useDefault = true

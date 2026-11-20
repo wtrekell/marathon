@@ -1,0 +1,22 @@
+# Claude Code runtime state and credentials written into each AI's CLAUDE_CONFIG_DIR.
+# Conventions the AIs build (CLAUDE.md, settings.json, rules, skills, agents, hooks) stay tracked.
+*/.claude.json
+*/.credentials.json
+*/backups/
+*/cache/
+*/downloads/
+*/file-history/
+*/ide/
+*/logs/
+*/mcp-needs-auth-cache.json
+*/paste-cache/
+*/plans/
+*/projects/
+*/session-env/
+*/sessions/
+*/shell-snapshots/
+*/state/
+*/stats-cache.json
+*/statsig/
+*/telemetry/
+*/todos/
